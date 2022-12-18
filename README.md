@@ -1,26 +1,32 @@
 # RiVIM project
 
+### Tech Stack
+- Java 11
+- Spring Boot 2.7
+- Node 14
+- React 18
+- Bootstrap 4
+- PostgreSQL 14
+
 ## Description
 
 The project consists of lab parts.<br>
 Contains 2 user roles and about CRUD operations on system users (admin role).<br>
 Can be deployed and started locally.<br>
 
-![](readme_img/login.png)
-![](readme_img/login_failed.png)
-![](readme_img/registration.png)
-![](readme_img/registration_failed.png)
-![](readme_img/registration_failed_username_exists.png)
-![](readme_img/user_page.png)
-![](readme_img/admin_page.png)
-![](readme_img/admin_failed_deletion.png)
-![](readme_img/admin_success_deletion.png)
-![](readme_img/admin_update_user.png)
+<img src="readme_img/login.png" width="404" height="235"  alt="login page"/>
+<img src="readme_img/registration.png" width="404" height="235"  alt="registration page"/>
+<img src="readme_img/registration_failed.png" width="404" height="235"  alt="registration_failed page"/>
+<img src="readme_img/user_page.png" width="404" height="235"  alt="user_page page"/>
+<img src="readme_img/admin_page.png" width="404" height="235"  alt="admin_page page"/>
+<img src="readme_img/admin_failed_deletion.png" width="404" height="235"  alt="admin_failed_deletion page"/>
+<img src="readme_img/admin_success_deletion.png" width="404" height="235"  alt="admin_success_deletion page"/>
+<img src="readme_img/admin_update_user.png" width="404" height="235"  alt="admin_update_user page"/>
 
 ### Database
 There is also a list of users to login:
 
-| N   |  username | password |  role |
+| №   |  username | password |  role |
 |:----|----------:|---------:|------:|
 | 1   |    admin	 |     8888 | admin |
 | 2   |   mromney |     1111 |  user |
