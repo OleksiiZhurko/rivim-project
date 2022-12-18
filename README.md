@@ -86,7 +86,9 @@ The frontend includes following functionality and features:<br>
 Security scans.<br>
 GitHub build-in code scan is mostly enough for the project.<br>
 But there should be at least 1 warning:
-- Links integrity is not present for react-frontend in index.html
+- Links integrity is not present for react-frontend in index.html<br>
+
+Disabled csrf was found.
 
 ### Lab 5
 
