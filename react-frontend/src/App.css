@@ -1,0 +1,17 @@
+.form-group.required .col-form-label:after {
+    content: '*';
+    color: red
+}
+
+.link {
+    color: blue;
+    cursor: pointer
+}
+
+.link:hover {
+    text-decoration: underline
+}
+
+.error {
+    color: red
+}

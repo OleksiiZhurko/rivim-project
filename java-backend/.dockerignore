@@ -1,0 +1,8 @@
+# Allow folders
+!/src/**
+
+# Allow files
+!/build.gradle
+!/settings.gradle
+!/gradlew
+!/gradlew.bat

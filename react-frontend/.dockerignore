@@ -1,0 +1,6 @@
+# Allow folders
+!/public/**
+!/src/**
+
+# Allow files
+!/package.json
